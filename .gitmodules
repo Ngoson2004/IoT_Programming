@@ -1,0 +1,6 @@
+[submodule "Group_Asm_IoT/iot-backend-server"]
+	path = Group_Asm_IoT/iot-backend-server
+	url = https://github.com/Just111n/iot-backend-server.git
+[submodule "Group_Asm_IoT/iot-frontend-website"]
+	path = Group_Asm_IoT/iot-frontend-website
+	url = https://github.com/Just111n/iot-frontend-website.git
